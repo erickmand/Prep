@@ -1,0 +1,29 @@
+#name{
+    color:blue;
+}
+
+#spanId{
+    margin: 50px;
+}
+
+#thirdDiv{
+    background-color: cornflowerblue;
+    width: 500px;
+    height: 600px;
+    padding: 50px;
+    border: brown 3px solid;
+     }
+
+#spanId{
+    font-size: 25px;
+    }        
+
+#letra{
+    font-size: 18px;
+    background-color: rgb(133, 126, 223);
+    color: darkblue;
+    }
+
+ 
+
+   
